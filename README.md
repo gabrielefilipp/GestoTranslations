@@ -17,11 +17,11 @@ In oder to translate Gesto you have to edit 7 files in Gesto directory:
 
 Then email me the zipped translated Gesto directory at gabriele.filipponi@yahoo.it so i will make sure to add that in next updates :)
 
-Already done:
+Already translated in:
 
 <ul>
   <li>English</li>
-  <li>Italy</li>
+  <li>Italiano</li>
   <li>Spanish</li>
   <li>French</li>
 </ul>
