@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<string>Enable</string>
+	<key>desc_main</key>
+	<string>Enable/Disable Gesto.</string>
+	<key>quickactions</key>
+	<string>Quick Actions</string>
+	<key>desc_quickactions</key>
+	<string>Quickly access toggles that are most important to you inside of the app switcher by swiping left on the first card in the switcher.</string>
+	<key>applock</key>
+	<string>App Lock</string>
+	<key>desc_applock</key>
+	<string>Swipe down on any app in the app switcher to prevent it from being closed.</string>
+	<key>sidebyside</key>
+	<string>Side-by-Side</string>
+	<key>desc_sidebyside</key>
+	<string>iPhone X (or HomeGesture) users can access the Control Center by swiping up on the bottom of the screen and then left.</string>
+	<key>adjust_sidebyside</key>
+	<string>Adjust Side-by-Side Settings</string>
+	<key>adjust_multiside</key>
+	<string>Adjust Multi-Side Settings</string>
+	<key>multiside</key>
+	<string>Multi-Side</string>
+	<key>desc_multiside</key>
+	<string>Access the Control Center in App Switcher view.</string>
+	<key>nothing</key>
+	<string>Choose the way you want to access the Control Center.</string>
+	<key>lock</key>
+	<string>Enable</string>
+	<key>desc_lock</key>
+	<string>Enable App Lock.</string>
+	<key>nowplaying</key>
+	<string>Now Playing</string>
+	<key>desc_nowplaying</key>
+	<string>Automatically lock applications that play audio.</string>
+	<key>individually</key>
+	<string>Close Apps Individually</string>
+	<key>desc_individually</key>
+	<string>If enabled, prevent apps from being closed only with the Close All Quick Action.</string>
+	<key>hapticlock</key>
+	<string>Haptic Feedback</string>
+	<key>desc_hapticlock</key>
+	<string>Feel a haptic response when locking an app.</string>
+	<key>background</key>
+	<string>Background</string>
+	<key>desc_background</key>
+	<string>Customise the control center background.</string>
+	<key>none</key>
+	<string>None</string>
+	<key>light</key>
+	<string>Light</string>
+	<key>dark</key>
+	<string>Dark</string>
+	<key>multiside_headers</key>
+	<string>Headers</string>
+	<key>desc_multiside_headers</key>
+	<string>Put apps’ icon and name below the card.</string>
+	<key>paging</key>
+	<string>Paging</string>
+	<key>desc_paging</key>
+	<string>Enable a page-like behaviour in the control center view.</string>
+	<key>scroll</key>
+	<string>Scroll</string>
+	<key>desc_scroll</key>
+	<string>Select the type of scroll you want.</string>
+	<key>vertical</key>
+	<string>Vertical</string>
+	<key>horizontal</key>
+	<string>Horizontal</string>
+	<key>multiside_cleared</key>
+	<string>Cleared Apps</string>
+	<key>desc_multiside_cleared</key>
+	<string>Enable the feature even with all apps cleared (app switcher will have to be manually dismissed).</string>
+	<key>position</key>
+	<string>Position</string>
+	<key>desc_position</key>
+	<string>Change the position of the Control Center in Multi-Side.</string>
+	<key>top</key>
+	<string>Top</string>
+	<key>bottom</key>
+	<string>Bottom</string>
+	<key>reset</key>
+	<string>Reset scroll</string>
+	<key>desc_reset</key>
+	<string>Reset Multi-Side content offset when invoking Control Center.</string>
+	<key>cc</key>
+	<string>Control Center</string>
+	<key>desc_cc</key>
+	<string>Quick shortcut to manage your control center modules.</string>
+	<key>hapticside</key>
+	<string>Haptic Feedback</string>
+	<key>desc_hapticside</key>
+	<string>Feel a haptic response when using Side-by-Side.</string>
+	<key>prioritise</key>
+	<string>Prioritise App Switcher</string>
+	<key>desc_prioritise</key>
+	<string>By default, swiping up on the home screen will invoke Side-by-Side. Prioritise App Switcher disables this.</string>
+	<key>side_headers</key>
+	<string>Headers</string>
+	<key>desc_side_headers</key>
+	<string>Put apps’ icon and name below the card.</string>
+	<key>side_cleared</key>
+	<string>Cleared Apps</string>
+	<key>enable_quickactions</key>
+	<string>Enable</string>
+	<key>desc_enable_quickactions</key>
+	<string>Display a series of toggles on the right side of the switcher.</string>
+	<key>desc_side_cleared</key>
+	<string>Enable the feature even with all apps cleared (app switcher will have to be manually dismissed).</string>
+	<key>manage</key>
+	<string>Manage Quick Actions</string>
+	<key>desc_manage</key>
+	<string>Manage quick actions. You can have a maximum of 5 (4 is Multi-Side is enabled) quick actions enabled at time.</string>
+	<key>haptic_quickactions</key>
+	<string>Haptic Feedback</string>
+	<key>desc_haptic_quickactions</key>
+	<string>Feel a haptic response when activating a Quick Action.</string>
+	<key>darkmode</key>
+	<string>Dark Mode</string>
+	<key>desc_darkmode</key>
+	<string>Darken the color of the Quick Action toggles.</string>
+	<key>delay</key>
+	<string>DELAY</string>
+	<key>desc_delay</key>
+	<string>Set an interval of holding a Quick Action toggle before activating it. Use this to prevent accidental activation of a toggle.</string>
+	<key>enabled</key>
+	<string>ENABLED</string>
+	<key>disabled</key>
+	<string>DISABLED</string>
+	<key>developer</key>
+	<string>Developer</string>
+	<key>designer</key>
+	<string>Designer</string>
+	<key>ccheight</key>
+	<string>Rows Displayed</string>
+	<key>desc_ccheight</key>
+	<string>Set how many rows Multi-Side can display</string>
+	<key>two</key>
+	<string>Two</string>
+	<key>three</key>
+	<string>Three</string>
+	<key>four</key>
+	<string>Four</string>
+	<key>five</key>
+	<string>Five</string>
+</dict>
+</plist>

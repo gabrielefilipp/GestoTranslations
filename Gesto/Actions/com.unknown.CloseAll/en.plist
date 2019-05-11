@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Close All</string>
+	<key>first</key>
+	<string>CLOSE ALL</string>
+	<key>dismiss</key>
+	<string>Close Switcher</string>
+	<key>desc_dismiss</key>
+	<string>Automatically close the switcher after using the Close All quick action.</string>
+	<key>title</key>
+	<string>Close All</string>
+</dict>
+</plist>

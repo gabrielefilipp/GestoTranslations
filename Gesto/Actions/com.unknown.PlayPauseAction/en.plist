@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Play</string>
+	<key>play</key>
+	<string>PLAY</string>
+	<key>pause</key>
+	<string>PAUSE</string>
+	<key>next</key>
+	<string>NEXT</string>
+	<key>enablenext</key>
+	<string>Enable Next</string>
+	<key>desc_enablenext</key>
+	<string>Enable the next quick action</string>
+	<key>color</key>
+	<string>Multi Color</string>
+	<key>desc_color</key>
+	<string>Change quick action trigger color based on the current playing song&apos;s artwork.</string>
+	<key>title</key>
+	<string>Play/Pause/Next</string>
+</dict>
+</plist>
