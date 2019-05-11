@@ -1,0 +1,2 @@
+# GestoTranslations
+Translation for gesto
