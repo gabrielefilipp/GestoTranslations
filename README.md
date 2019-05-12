@@ -24,4 +24,8 @@ Already translated in:
   <li>Italiano</li>
   <li>Spanish</li>
   <li>French</li>
+  <li>Arabic</li>
+  <li>Turkish</li>
+  <li>Chinese simplified</li>
+  <li>Chinese traditional</li>
 </ul>
