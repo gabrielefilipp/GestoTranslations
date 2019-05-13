@@ -28,4 +28,5 @@ Already translated in:
   <li>Turkish</li>
   <li>Chinese simplified</li>
   <li>Chinese traditional</li>
+  <li>Malay</li>
 </ul>
