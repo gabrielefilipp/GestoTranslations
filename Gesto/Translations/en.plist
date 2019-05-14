@@ -146,5 +146,21 @@
 	<string>Four</string>
 	<key>five</key>
 	<string>Five</string>
+	<key>linearside</key>
+	<string>Linear Switcher</string>
+	<key>desc_linearside</key>
+	<string>Make the cards in app switcher follow a linear rule instead of a deck rule (This will overwrite Grid Switcher and will not work with Reduce Motion).</string>
+	<key>linearmulti</key>
+	<string>Linear Switcher</string>
+	<key>desc_linearmulti</key>
+	<string>Make the cards in app switcher follow a linear rule instead of a deck rule (This will overwrite Grid Switcher and will not work with Reduce Motion).</string>
+	<key>altertitle</key>
+	<string>Respring</string>
+	<key>altermessage</key>
+	<string>A Respring is required in order to apply Linear Switcher</string>
+	<key>alertyes</key>
+	<string>Respring</string>
+	<key>alertno</key>
+	<string>Later</string>
 </dict>
 </plist>
